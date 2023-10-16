@@ -1,0 +1,5 @@
+# JS/TS
+/node_modules
+
+# IDE
+.vscode
