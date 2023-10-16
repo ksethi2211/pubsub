@@ -1,5 +1,9 @@
 # JS/TS
 /node_modules
 
+# Testing
+/coverage
+.jest-test-results.json
+
 # IDE
 .vscode
