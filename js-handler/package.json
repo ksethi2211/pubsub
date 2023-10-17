@@ -1,0 +1,12 @@
+{
+  "name": "handlers",
+  "version": "1.0.0",
+  "description": "handlers using pubsub model",
+  "main": "index.js",
+  "author": "Kunal Sethi",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
