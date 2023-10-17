@@ -1,3 +1,3 @@
 # PUBSUB
 
-This project explores different type of pub sub implementation in js.
+This project explores different types of pub sub implementation.

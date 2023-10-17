@@ -1,8 +1,8 @@
 # JS/TS
-/node_modules
+**/node_modules
 
 # Testing
-/coverage
+**/coverage
 .jest-test-results.json
 
 # IDE
